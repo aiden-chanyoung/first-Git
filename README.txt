@@ -1,1 +1,3 @@
-YEHS AI Study - ChanYoung and YEHS
+YEHS AI Study - ChanYoung and YEHS 
+
+Chan Young Park
