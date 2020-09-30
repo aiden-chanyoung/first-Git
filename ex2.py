@@ -6,5 +6,3 @@ YEHS = tf.constant('YEHS')
 print(sess.run(YEHS).decode())
 
 # Add your name and print it :)
-CYPARK = tf.constant('Chan Young Park')
-print(sess.run(CYPARK).decode())
